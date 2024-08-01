@@ -3,7 +3,7 @@
 - 🌱 estou aprendendo a trabalhar na plataforma Github.
 - 💞️ estou procurando colaborar com as aulas de tecnologia da minha escola.
 - 📫 eu sou uma pessoa criativa
-- 😄 Pronouns: 
+- 😄 Pronouns: ele, dele 
 - ⚡ Fun fact: ...
 
 <!---
